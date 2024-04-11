@@ -1,6 +1,6 @@
 # BioLink Devices
 
-A conference app with chat and schedule notifications
+Exercise therapy application with Bluetooth brace.
 
 ## Description
 Get the NHSCYPAA XXIV App!
