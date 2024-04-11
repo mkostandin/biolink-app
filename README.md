@@ -17,7 +17,7 @@ Get the NHSCYPAA XXIV App!
 <img src="https://github.com/mkostandin/mkostandin/blob/main/biolink_gif_400.gif" style="display:block;margin:auto;" alt="BioLink Devices" width="40%"/>
 </p>
 
-<a href="https://www.youtube.com/watch?v=-JZpr1r3hI8" target="_blank">Private Release Trailer</a>
+<a href="https://youtu.be/LU51sZBN2rM" target="_blank">Official Trailer</a>
 ## Features
 
 - Bluetooth LE
