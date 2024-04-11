@@ -34,7 +34,7 @@ The application was written in React using IONIC 5 and TypeScript. The code belo
 ```
 # Demo
 
-[BioLink App Live Demo]()
+[BioLink App Live Demo](https://gray-sky-03af52a10.3.azurestaticapps.net)
 
 The demo is hosted on Azure. The application is designed to run on mobile devices, so a basic JavaScript function was added to the Azure deployment that checks screen size and then displays the responsively if viewed on a desktop.
 
