@@ -16,7 +16,7 @@ Get the NHSCYPAA XXIV App!
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/biolink_gif_400.gif" style="display:block;margin:auto;" alt="BioLink Devices" width="40%"/>
 </p>
-<a href="https://lnkd.in/e3Zb2ynk" target="_blank">Live Demo</a>
+<a href="https://lnkd.in/e3Zb2ynk" target="_blank">Live Demo</a> <br>
 <a href="https://youtu.be/LU51sZBN2rM" target="_blank">Official Trailer</a>
 ## Features
 
