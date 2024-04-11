@@ -18,9 +18,13 @@ Exercise therapy application with Bluetooth brace.
 
 - Bluetooth LE
 - Encoder
+- EasyEDA
+- PCB
+- 
 
 ## Tech Stack
 
+- TypeScript
 - JavaScript
 - React
 - Ionic
