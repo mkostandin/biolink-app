@@ -3,15 +3,10 @@
 Exercise therapy application with Bluetooth brace.
 
 ## Description
-Get the NHSCYPAA XXIV App!
 
-- Get on-the-hour schedule notifications
-- Chat with other YPAA directly in the app
-- Explore NHSCYPAA
-  - Program
-  - Hotel
-  - Workshops
-  - Panels
+- Track Excercise
+- Get Feedback
+- Watch Progress
 
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/biolink_gif_400.gif" style="display:block;margin:auto;" alt="BioLink Devices" width="40%"/>
