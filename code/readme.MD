@@ -1,5 +1,5 @@
 # Bluetooth LE
-The programable circuit board has a Bluetooth Low Energy module(BLE). Instead of a two-way connection like the normal Bluetooth communication protocol, BLE uses services with characteristics that can be subscribed to by devices. Changes are broadcast so that a constant connection is not required. BLE provided more power efficiency and better battery life which is essential for the IOT wearable.
+The programmable circuit board has a Bluetooth Low Energy module(BLE). Instead of a two-way connection like the normal Bluetooth communication protocol, BLE uses services with characteristics that can be subscribed to by devices. Changes are broadcast so that a constant connection is not required. BLE provided more power efficiency and better battery life which is essential for the IOT wearable.
 ``` c++
 BLEService encoderService("EncoderA"); // BLE Service Name
 
